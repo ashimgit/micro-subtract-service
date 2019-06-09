@@ -1,0 +1,5 @@
+server :
+   port: 12346
+   servlet:
+      context-path: /micro-subtract-service
+      
